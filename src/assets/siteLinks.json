@@ -17,11 +17,16 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.kpretty.tech/"
+    "link": "https://status.kpretty.tech/status/dashboard"
   },
   {
     "icon": "Table",
     "name": "MetaBase",
     "link": "https://metabase.kpretty.tech/"
+  },
+  {
+    "icon": "Table",
+    "name": "实时流量",
+    "link": "https://us.umami.is/share/xg4JtqHYl1rY1uJf/blog.kpretty.tech"
   }
 ]
